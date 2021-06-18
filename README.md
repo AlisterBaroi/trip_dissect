@@ -1,6 +1,13 @@
 # trip_dissect
 Our Project for the ImahineHack 2021 hackathon that landed us in 4th place, hosted by the "Agents of Tech Club", a club of Taylor's University
 
+### Languages and frameworks that are user in this project:
+| Languages: | PHP         | Javascript | CSS | HTML |
+| :--------: | :--:        | :--------: | :--------: | :--------: |
+| Frameworks:| Bootstrap 5 | 
+| Libraries: | Font Awesome|
+
+
 ### Things you need to know to preview this project:
 1. How to use xampp offline server enviroment.<br>  
 1. How to find and open localhost port number for xampp.<br>
