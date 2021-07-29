@@ -1,5 +1,5 @@
 # trip_dissect
-Our Project for the ImahineHack 2021 that landed us in 4th place of the 48 hour hackathon, hosted by the "Agents of Tech Club", a club of Taylor's University. In simpified terms, this is a fitness traking application, but for monitoring the electrical energy usage for homes, and companies. This way people can track the energy usage of their homes/companies and effectively reduce their energy consumption + utility bills, and have less carbon footprint.
+Our Project for the 48 hours ImagineHack 2021 that got us the 4th place of out of 70+ participants and 20+ teams, hosted by the "Agents of Tech Club", a club of Taylor's University. In simpified terms, this is just like any fitness traking application, but in this case we are monitoring the electrical energy usage for homes, and companies. This way people can track the energy usage of their homes/companies and effectively reduce their energy consumption + utility bills, and have less carbon footprint.
 
 ### Languages and frameworks that are user in this project:
 | Languages: | PHP         | Javascript | CSS | HTML |
