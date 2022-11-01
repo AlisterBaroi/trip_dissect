@@ -21,4 +21,4 @@ Our Project for the 48 hours ImagineHack 2021 that got us the 4th place of out o
 1. Then import the file tripdissectdb.sql from the "database" folder to phpMyAdmin.<br>
 1. Lastly, go to localhost/trip_dissect to view the porject.<br>
 
-## Enjoy
+### Enjoy
